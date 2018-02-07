@@ -1,0 +1,14 @@
+This project is all about listing games chosen and reviewed by RKG.
+RKG (Rain Kin Games) is an organization that designs, reviews, 
+publishes, and plays table top board games. 
+
+This app allows followers of the RKG Organization the ability 
+to directly affect what games we play coming up. They can submit
+their name, email, and an entry for a game that the group should 
+play. RKG staff and personalities will play the game, review it, 
+and if it is a favorite they will add it to the site with credit 
+to the users who suggested it. 
+
+The app is simple and it's a leader board / public hall of fame 
+for RKG followers to submit their games. If a user appears multiple
+times on the leader boards they will get RKG Perks!

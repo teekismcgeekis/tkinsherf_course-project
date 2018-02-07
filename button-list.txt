@@ -1,0 +1,14 @@
+MENU = NAVIGATION
+BACK = HOME
+
+MEEPLES = FAMILY GAMES
+DOOR = GATEWAY GAMES
+COMPASS = EURO GAMES
+DICE =  TRASHY GAMES
+COFFEE = BLACK COFFEE GAMES
+
+/!- All game pages are leaderboards which will update with RKG database
+to reflect the game, rank, and user/users who submitted the game. 
+
+SUBMIT A GAME = Goes to the FORM where users will submit their name, email,
+and Game entry. The submit button there will update the RKG inbox database.
